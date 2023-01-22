@@ -1,2 +1,2 @@
 # net
-Social network using Python Flask framework
+Simple social network application using Python Flask framework and Sqlite3.
